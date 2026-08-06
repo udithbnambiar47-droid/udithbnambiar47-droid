@@ -1,7 +1,4 @@
 
-<!--
-**udithbnambiar47-droid/udithbnambiar47-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 📊 Finance & Analytics Research Portfolio
 
 ## About Me
