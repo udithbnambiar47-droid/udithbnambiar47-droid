@@ -1,19 +1,17 @@
 
-# 📊 Finance & Analytics Research Portfolio
+# 📊 Business & Analytics Research Portfolio
 
 ## About Me
 
 Hello, I'm **Udith**, a **BBA Finance Graduate** and a **Data Analytics Student** passionate about the intersection of **Finance, Data Analytics, Artificial Intelligence, and Machine Learning**.
 
-My primary interest is conducting research in **Finance and Business Analytics** while exploring how **AI and Agentic AI systems** can automate financial analysis, investment research, risk management, and decision-making processes.
+My primary interest is conducting research in **Finance and Business Analytics** while exploring how **AI and Agentic AI systems** can automate Business analysis, investment research, risk management, and decision-making processes.
 
-I am actively developing technical and analytical skills to build data-driven solutions for the finance industry.
+I am actively developing technical and analytical skills to build data-driven solutions for the Business Industry.
 
 ---
 
 ## 🛠️ Tech Stack
-
-![Finance](https://img.shields.io/badge/Finance-0A66C2?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Business Analytics](https://img.shields.io/badge/Business_Analytics-1565C0?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Investment Research](https://img.shields.io/badge/Investment_Research-2E7D32?style=for-the-badge&logo=tradingview&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
