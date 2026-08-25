@@ -29,10 +29,8 @@ I am actively developing technical and analytical skills to build data-driven so
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-[![scikit-learn](https://shields.io)](https://scikit-learn.org)
-[![XGBoost](https://shields.io)](https://readthedocs.io)
-![LightGBM](https://shields.io)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://shields.io) ![XGBoost](https://shields.io) ![LightGBM](https://shields.io) ![Machine Learning](https://shields.io)
+
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
