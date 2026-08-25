@@ -16,21 +16,24 @@ I am actively developing technical and analytical skills to build data-driven so
 ![Investment Research](https://img.shields.io/badge/Investment_Research-2E7D32?style=for-the-badge&logo=tradingview&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-6A1B9A?style=for-the-badge&logo=robotframework&logoColor=white)
+
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![yfinance](https://img.shields.io/badge/yfinance-Stock%20Market%20Data-success)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
 [![scikit-learn](https://shields.io)](https://scikit-learn.org)
 [![XGBoost](https://shields.io)](https://readthedocs.io)
 ![LightGBM](https://shields.io)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Jupyter Notebook](https://shields.io)
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
