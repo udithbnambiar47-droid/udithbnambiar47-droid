@@ -28,7 +28,7 @@ I am actively developing technical and analytical skills to build data-driven so
 ![yfinance](https://img.shields.io/badge/yfinance-Stock%20Market%20Data-success)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![statsmodels](https://shields.io)](https://www.statsmodels.org/)
+![statsmodels](https://shields.io/badge/statsmodels-11557C?style=for-the-badge)
 
 
 
