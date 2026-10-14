@@ -16,6 +16,7 @@ I am actively developing technical and analytical skills to build data-driven so
 ![Investment Research](https://img.shields.io/badge/Investment_Research-2E7D32?style=for-the-badge&logo=tradingview&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-6A1B9A?style=for-the-badge&logo=robotframework&logoColor=white)
+[![AI Assisted](https://img.shields.io/badge/AI%20Assisted-Yes-green?style=for-the-badge)](https://github.com/mefengl/made-by-ai)
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
