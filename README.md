@@ -16,7 +16,7 @@ I am actively developing technical and analytical skills to build data-driven so
 ![Investment Research](https://img.shields.io/badge/Investment_Research-2E7D32?style=for-the-badge&logo=tradingview&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-6A1B9A?style=for-the-badge&logo=robotframework&logoColor=white)
-[![Claude 3.5 Sonnet](https://shields.io)
+[![Claude 3.5 Sonnet](https://img.shields.io/badge/Claude-6A1B9A?style=for-the-badge&logo=robotframework&logoColor=white)
 
 
 
