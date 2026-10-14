@@ -17,7 +17,7 @@ I am actively developing technical and analytical skills to build data-driven so
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-6A1B9A?style=for-the-badge&logo=robotframework&logoColor=white)
 [![Claude 3.5 Sonnet](https://img.shields.io/badge/Claude_3.5_Sonnet-6A1B9A?style=for-the-badge&logo=robotframework&logoColor=white)
-
+<img src="https://simpleicons.org" width="40" height="40" alt="OpenAI Logo" />
 
 
 
