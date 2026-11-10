@@ -34,10 +34,6 @@ I am actively developing technical and analytical skills to build data-driven so
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![statsmodels](https://shields.io/badge/statsmodels-11557C?style=for-the-badge)
 
-
-
-
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
