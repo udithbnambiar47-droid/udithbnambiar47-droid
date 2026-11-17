@@ -3,9 +3,9 @@
 
 ## About Me
 
-Hello, I'm **Udith**, a **BBA Finance Graduate** and a **Data Analytics Student** passionate about the intersection of **Finance, Data Analytics, Artificial Intelligence, and Machine Learning**.
+Hello, I'm **Udith**, a **BBA Finance Graduate** and a **Data Analytics Student** passionate about the intersection of **, Data Analytics, Artificial Intelligence, and Machine Learning**.
 
-My primary interest is conducting research in **Finance and Business Analytics** while exploring how **AI and Agentic AI systems** can automate Business analysis, investment research, risk management, and decision-making processes.
+My primary interest is conducting research in **Business Analytics** while exploring how **AI and Agentic AI systems** can automate Business analysis, investment research, risk management, and decision-making processes.
 
 I am actively developing technical and analytical skills to build data-driven solutions for the Business Industry.
 
