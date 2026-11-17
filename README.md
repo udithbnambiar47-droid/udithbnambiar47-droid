@@ -15,7 +15,11 @@ I am actively developing technical and analytical skills to build data-driven so
 ![Business Analytics](https://img.shields.io/badge/Business_Analytics-1565C0?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-6A1B9A?style=for-the-badge&logo=robotframework&logoColor=white)
-![Claude 3.5 Sonnet](https://img.shields.io/badge/Claude_3.5_Sonnet-6A1B9A?style=for-the-badge&logo=robotframework&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logo=lovable&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 
 
