@@ -35,11 +35,11 @@ I am actively developing technical and analytical skills to build data-driven so
 ![statsmodels](https://shields.io/badge/statsmodels-11557C?style=for-the-badge)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Streamlit](https://shields.io)
-![Git](https://shields.io)
-![Render](https://shields.io)
-![Docker](https://shields.io)
-![Microsoft Azure](https://shields.io)
+![Streamlit](https://shields.io/Streamlit-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://shields.io/Git-181717?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://shields.io/Render-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://shields.io/Docker-181717?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft Azure](https://shields.io/Microsoft_Azure-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
 
