@@ -35,11 +35,11 @@ I am actively developing technical and analytical skills to build data-driven so
 ![statsmodels](https://shields.io/badge/statsmodels-11557C?style=for-the-badge)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Streamlit](https://shields.io/Streamlit-181717?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Git](https://shields.io/Git-181717?style=for-the-badge&logo=git&logoColor=white)
-![Render](https://shields.io/Render-181717?style=for-the-badge&logo=render&logoColor=white)
-![Docker](https://shields.io/Docker-181717?style=for-the-badge&logo=docker&logoColor=white)
-![Microsoft Azure](https://shields.io/Microsoft_Azure-181717?style=for-the-badge&logo=azure&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
 
